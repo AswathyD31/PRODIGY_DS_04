@@ -1,8 +1,8 @@
 # **Data Science Internship at Prodigy Infotech**
 
-## **Task 3 Submission:**
+## **Task 4 Submission:**
 
-Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I performed data cleaning, exploratory data analysis (EDA), and sentiment analysis on a social media dataset, uncovering sentiment patterns and public attitudes towards various brands and topics through detailed visualizations.
+Welcome to my submission for Task 4 of the Data Science Internship at Prodigy Infotech. In this task, I performed data cleaning, exploratory data analysis (EDA), and sentiment analysis on a social media dataset, uncovering sentiment patterns and public attitudes towards various brands and topics through detailed visualizations.
 
 ## Dataset Description
 ____________
