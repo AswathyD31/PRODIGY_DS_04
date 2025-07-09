@@ -67,7 +67,7 @@ Key steps followed during the EDA process:
 
 ## Key Insights
 
-* Brands like Apple and Tesla generally received positive sentiment, while topics like PUBG and Facebook showed a mix of positive, negative, and neutral reactions.
+* Brands like PUBG and AMAZON generally received positive sentiment, while topics like PUBG and Facebook showed a mix of positive, negative, and neutral reactions.
 
 * Positive tweets commonly included words reflecting appreciation or support, while negative tweets highlighted dissatisfaction or complaints.
 
