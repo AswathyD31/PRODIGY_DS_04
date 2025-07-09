@@ -59,7 +59,7 @@ Key steps followed during the EDA process:
  
   * Visualized the sentiment breakdown for each brand to understand public perception.
 
-- ** Word Cloud Generation:**
+- **Word Cloud Generation:**
 
     * Created word clouds to visualize frequently occurring words in positive, negative, and neutral tweets.
  
